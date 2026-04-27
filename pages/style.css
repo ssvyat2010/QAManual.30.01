@@ -1,0 +1,15 @@
+/* Обращение по ID */
+#main-title {
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+/* Обращение по классу */
+.dog-image {
+    transition: 0.3s;
+}
+
+.dog-image:hover {
+    transform: scale(1.05);
+    cursor: pointer;
+}
